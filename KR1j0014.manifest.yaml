@@ -1,0 +1,39 @@
+canonical_identifier: bkk:krp/KR1j0014/v1
+canonical_location: https://kanripo.org/bkk/KR1j0014/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 字詁
+  date: '2016-04-12 14:30:50.744388'
+  source:
+    repository: kanripo
+    path: KR1j0014
+  base_edition: WYG
+  edition:
+    short: bkk
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR1j0014_000.yaml, hash: 'sha256:a6ab995c9d1ddb119a9dadef970b97f8039b6a7787fda07b4f70427e2a29ed76'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR1j0014_000.markers.yaml, hash: 'sha256:92545a5622ebd3da620082f1107eea88f290ac3ee959860c35161c2ce972c60c'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR1j0014_WYG_000-1a
+    span:
+    - body
+    - 0
+    - 19965
+  label: juan 000
+  type: section
+  level: 1
+hash: sha256:089133031ae4f179faeaa6e986df590252323ad59a213114221677c9ded28875
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+editions:
+- short: WYG
