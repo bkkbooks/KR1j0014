@@ -17,9 +17,9 @@ entity_encoding:
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 assets:
   parts:
-  - {seq: 0, filename: KR1j0014_000.yaml, hash: 'sha256:a6ab995c9d1ddb119a9dadef970b97f8039b6a7787fda07b4f70427e2a29ed76'}
+  - {seq: 0, filename: KR1j0014_000.yaml, hash: 'sha256:0fbe2c3dba800889478a287e95fbe36f0ae1bd5aef93a6ee112a4f96d67e4545'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR1j0014_000.markers.yaml, hash: 'sha256:92545a5622ebd3da620082f1107eea88f290ac3ee959860c35161c2ce972c60c'}
+  - {seq: 0, role: markers, filename: assets/KR1j0014_000.markers.yaml, hash: 'sha256:635532ddcd81ce6477cfa2945b34abb6d78203754e54f8d6ef4e4746e65c8734'}
 table_of_contents:
 - ref:
     seq: 0
@@ -31,9 +31,6 @@ table_of_contents:
   label: juan 000
   type: section
   level: 1
-hash: sha256:089133031ae4f179faeaa6e986df590252323ad59a213114221677c9ded28875
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:e587f31cfdc31e7e762868a5e940b56c620413d2ce811f846a3cb8bce73b26df
 editions:
 - short: WYG
